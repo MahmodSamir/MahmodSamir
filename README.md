@@ -15,7 +15,7 @@
 
 
 ##  Projects
-- Flutter app [Recipes](https://github.com/MahmodSamir/Recipes)
+- Flutter app [MealBoard](https://github.com/MahmodSamir/Recipes)
 - ASP.NET web app [Trips and Travel](https://github.com/MahmodSamir/Trips-and-Travel)
 - Unity 2D game [Jumpinhom](https://github.com/MahmodSamir/Jumpinhom)
 

@@ -1,10 +1,10 @@
   Hi there, I’m Mahmoud!👋
-  - #### **Undergraduate student at Faculty of Computers and Artifical intelligence at Helwan university**
+  - #### **Software Engineer**
   ## Passionate about Software development
-  - have knowledge in C, Java, Dart, and flutter
-  - Working more on Mobile application development
-  - Strengthen problem solving skill
-  - Learning Android native and react native
+  - have knowledge in C, Java, Dart, and flutter.
+  - Working more on Mobile application development.
+  - Strengthen problem solving skill.
+  - Eager to learn.
   
 ### Languages:
 -  Arabic — native

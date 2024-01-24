@@ -1,9 +1,9 @@
   Hi there, I’m Mahmoud!👋
   - #### **Software Engineer**
   ## Passionate about Software development
-  - have knowledge in C, Java, Dart, and flutter.
-  - Working more on Mobile application development.
-  - Strengthen problem solving skill.
+  - have knowledge in C, C++, C#, Java, Python, Dart, and flutter.
+  - Improving skills by focusing on Design patterns, SOLID, Data Structres, Algorithms.
+  - Strengthen problem solving skill by +100 solved problem on LeetCode and Codeforces.
   - Eager to learn.
   
 ### Languages:
